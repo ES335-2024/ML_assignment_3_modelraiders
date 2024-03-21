@@ -8,7 +8,7 @@ b. Random Forest : 0.9704722695987773
 
 c. Logistic Regression : 0.9210516141720867
 
-*/Observations/*
+/*Observations*/
 
 1. Random Forest outperforms both MLP and Logistic Regression in terms of F1 score, with the highest F1 score of 0.9705.
 
