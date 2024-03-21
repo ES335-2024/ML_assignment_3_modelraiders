@@ -39,6 +39,7 @@ c. Logistic Regression : 0.921
 2. MLP - 5, 8, 6, RF - 5, 8,  Log Reg -  5, 8 
 
  **Contrast t-SNE for the second layer for trained and untrained model.**
+ 
 The untrained model plot gives no information, it is random data continously distributed over a range of numbers with mean 0. In the trained model, the plot can represent the relationship between the examples using which we would be able to classify the hand written digits. Very closely related examples are classified together and similarly looking digits are located nearer in the plot than digits with less similarities.
 
 For example 0 is more closer to 8 than 1 in the plot, which makes sense if we observe the hand written samples.
